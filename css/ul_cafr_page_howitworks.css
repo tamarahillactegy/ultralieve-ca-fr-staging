@@ -1,0 +1,39 @@
+/*****************************
+					General
+*****************************/
+.clr{height:0px;}
+.img-center{text-align: center; margin: 15px 0;}
+
+/*****************************
+			Full Width Blocks
+*****************************/
+.page{width:100%; padding:0;}
+.page-inner{width:960px; margin:0 auto; text-align:left;}
+.full-width-block{padding: 30px 0;}
+.full-width-block.purple{border-top: 1px solid #c9b8de; border-bottom: 1px solid #c9b8de; background: #FEFCFE url() no-repeat center top;}
+.full-width-block.purple h2{font-weight: normal;}
+.full-width-block.purple h3{color: #676f73;margin-bottom: 20px;}
+
+/*****************************
+				End Blocks
+*****************************/
+.end-blocks{width:960px; margin:50px auto 40px;padding:0 10px;}
+.end-block{width:308px;margin-left:15px;float:left;text-align:center;}
+.end-block:first-child{margin-left:0px;}
+.end-block p{text-align: left; padding:10px;margin: 0;}
+
+/*****************************
+				How It Works
+*****************************/
+.std-block h1{font-size: 2.4em;}
+.cms-how-ultralieve-works .std-block{margin-bottom: 30px;}
+.cms-how-ultralieve-works .std-block .page-inner p{width:650px;}
+.cms-how-ultralieve-works .step{float:left; width:220px; text-align:center; margin-right:20px;}
+.cms-how-ultralieve-works .step:first-child{margin-left:10px;}
+.cms-how-ultralieve-works .step img{float:left; height:208px; width:220px; margin-bottom:10px;}
+.cms-how-ultralieve-works .full-width-block.purple h2{margin-bottom:0px;}
+.button{width: 260px; font-size: 14px; overflow: hidden;}
+.button.blue{background:url('http://assets2.ultralieve.ca/media/ul_cafr/ul_cafr_wide_button_blue.png') repeat-x 0 0;}
+.button.purple{background:url('http://assets2.ultralieve.ca/media/ul_cafr/ul_cafr_wide_button_purple.png') repeat-x 0 0;}
+.button.orange{background:url('http://assets2.ultralieve.ca/media/ul_cafr/ul_cafr_wide_button_orange.png') repeat-x 0 0;}
+.button.blue:hover,.button.purple:hover,.button.orange:hover{background-position: 0 -31px;}

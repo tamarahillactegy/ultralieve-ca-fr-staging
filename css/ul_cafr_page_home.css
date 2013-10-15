@@ -1,0 +1,44 @@
+/*****************************
+					General
+*****************************/
+.clr{height:0px;}
+.img-center{text-align: center; margin: 15px 0;}
+
+/*****************************
+					Home
+*****************************/
+.cms-home .main-hp-banner p.text-6 a{padding: 45px 0 40px 140px;}
+.cms-home .rejuvenation-purple{background-color:transparent; border:0; padding:0;}
+.cms-home .rejuvenation-purple h2{color:#704a9e;}
+.cms-home .rejuvenation-purple .rejuvenation-slide-img{border-color:#d4c8e2;}
+.rejuvenation-purple .inner{padding:40px 0 60px;}
+.centerButtons{text-align:center;}
+.painkillerNewBg{border-top:1px solid #a5def5; border-bottom:1px solid #a5def5; background:#f7fbfc url() no-repeat center top;}
+.painkillerNewBg .inner{padding:45px 0 60px;}
+.painkillerNewBg h2{color:#19a5dd;}
+a.to-top{padding-left: 40px;}
+.cms-home .main-hp-banner p.text-3 a{padding-top: 25px;}
+.cms-home .main-hp-banner p.text-1 a{padding-top: 40px;}
+.cms-home{background: white url('/skin/frontend/hth/ultralieve_ca/images/new/site-bg.jpg') no-repeat center 189px;}
+.cms-home .main-hp-banner{background:#ffffff url('http://assets2.ultralieve.ca/media/ul_ca/home/ul_ca_home_main_banner_bg.png') no-repeat center top;height: 480px;}
+
+/*
+		Wider buttons for french links
+ */
+.cms-home .button{width: 260px; font-size: 14px; overflow: hidden;}
+.button.blue{background:url('http://assets2.ultralieve.ca/media/ul_cafr/ul_cafr_wide_button_blue.png') repeat-x 0 0;}
+.button.purple{background:url('http://assets2.ultralieve.ca/media/ul_cafr/ul_cafr_wide_button_purple.png') repeat-x 0 0;}
+.button.orange{background:url('http://assets2.ultralieve.ca/media/ul_cafr/ul_cafr_wide_button_orange.png') repeat-x 0 0;}
+.button.blue:hover,.button.purple:hover,.button.orange:hover{background-position: 0 -31px;}
+
+/*
+		Active state affecting the other buttons, in progress
+
+.button.blue:active{
+	margin-top:11px;
+	margin-bottom: -1px;
+	background-position: 0 -62px;
+}
+*/
+
+#bespoke p{margin-bottom: 0.4em;}
